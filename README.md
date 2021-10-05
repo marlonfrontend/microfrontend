@@ -7,7 +7,7 @@
 # folder module starter
 cd example
 
-# folder module starter
+# folder root
 cd root-config
 
 # install dependencies
